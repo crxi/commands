@@ -28,10 +28,10 @@ These commands turn the squad specifically to form a column for marching.
 
 | Command (Formal Malay) | Meaning / Action |
 | :--- | :--- |
-| Bergerak Ke Kanan, Bertiga-tiga... Ke Kanan... Pusing | Move to the Right, in Threes... Right Turn. (Forms a column of 3 moving Right) |
-| Bergerak Ke Kiri, Bertiga-tiga... Ke Kiri... Pusing | Move to the Left, in Threes... Left Turn. (Forms a column of 3 moving Left) |
-| Akan Menghadap Ke Hadapan... Ke Belakang... Pusing | Face Front... About Turn. (Used if front is currently behind you) |
-| Akan Menghadap Ke Belakang... Ke Belakang... Pusing | Face Rear... About Turn. (Used if rear is currently behind you) |
+| Bergerak Ke Kanan, Bertiga-tiga... <br>Ke Kanan... Pusing | Move to the Right. (Forms a column of 3 moving Right) |
+| Bergerak Ke Kiri, Bertiga-tiga... <br>Ke Kiri... Pusing | Move to the Left. (Forms a column of 3 moving Left) |
+| Akan Menghadap Ke Hadapan... <br>Ke Belakang... Pusing | Intent: Face the Front.<br>Action: About Turn.<br>(Used when the squad is currently facing the Rear) |
+| Akan Menghadap Ke Belakang... <br>Ke Belakang... Pusing | Intent: Face the Rear.<br>Action: About Turn.<br>(Used when the squad is currently facing the Front) |
 
 ## 4. Marching (On the Move)
 
